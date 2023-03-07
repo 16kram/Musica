@@ -1,2 +1,2 @@
 # Musica
-Simplemente muestra como realizar un tono de música mediante java
+Simplemente muestra como realizar un tono de audio mediante java
